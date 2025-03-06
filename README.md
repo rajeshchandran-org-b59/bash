@@ -1,5 +1,5 @@
 # bash scripting
 
-##bash scripting ok.
+## bash scripting ok.
 
-##bash is a shell available in linux
+## bash is a shell available in linux
