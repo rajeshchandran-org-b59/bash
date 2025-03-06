@@ -1,2 +1,2 @@
 # bash
-bash scripting
+bash scripting ok
